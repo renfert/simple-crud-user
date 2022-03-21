@@ -1,0 +1,10 @@
+﻿
+{
+    "database": {
+        "host": "somoscodigo.com",
+        "port": 3306,
+        "user": "syqihatg_simple_crud",
+        "password": "ELkEaYUlnCRa",
+        "database": "syqihatg_simple_crud"
+    }
+}
