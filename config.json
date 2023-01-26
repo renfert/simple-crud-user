@@ -1,9 +1,9 @@
 ﻿{
     "database": {
-        "host": "somoscodigo.com",
+        "host": "sql.freedb.tech",
         "port": 3306,
-        "user": "syqihatg_simple_crud",
-        "password": "syqihatg_simple_crud",
-        "database": "syqihatg_simple_crud"
+        "user": "freedb_syqihatg_simple_crud",
+        "password": "uBHt%%#3jHSG26!",
+        "database": "freedb_syqihatg_simple_crud"
     }
 }
